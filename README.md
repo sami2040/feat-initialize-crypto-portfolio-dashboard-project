@@ -5,3 +5,4 @@ feat: create dashboard layout
 feat: add portfolio data model
 feat: implement wallet import functionality
 fix: handle empty portfolio state
+refactor: simplify portfolio update logic
